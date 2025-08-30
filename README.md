@@ -1,16 +1,28 @@
 ## Hi there 👋
+I'm **Melika Rezaye**, a Computer Science student at **Khajeh Nasir Toosi University**.  
+I’m passionate about learning, problem solving, and improving my programming skills.
 
-<!--
-**melikaarz/melikaarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming Languages:** Python  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools & Technologies:** Git
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Machine Learning 
+- Algorithms & Computer Science fundamentals  
+- Problem solving with Python  
+
+---
+
+## 📫 Contact Me
+- Email: **rmelika.rz.2004@gmail.com**
+-linkedin: **https://www.linkedin.com/in/melika-rezayi-71435a352**
+- GitHub: **github.com/melikaarz**
+
+
+---
+
+✨ Always eager to learn new things and connect with others in tech!
