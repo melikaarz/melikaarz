@@ -19,8 +19,10 @@ I’m passionate about learning, problem solving, and improving my programming s
 
 ## 📫 Contact Me
 - Email: **rmelika.rz.2004@gmail.com**
--linkedin: **https://www.linkedin.com/in/melika-rezayi-71435a352**
-- GitHub: **github.com/melikaarz**
+- 
+-linkedin:**https://www.linkedin.com/in/melika-rezayi-71435a352**
+
+- GitHub:**https://github.com/melikaarz**
 
 
 ---
