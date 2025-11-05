@@ -6,8 +6,8 @@ I’m passionate about learning, problem solving, and improving my programming s
 
 ## 🔧 Skills
 - **Programming Languages:** Python  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools & Technologies:** Git
+- **Data Science & ML:** NumPy, Pandas, Matplotlib, scikit-learn  
+- **Tools & Technologies:** Git, colab, VS code
 ---
 
 ## 🌱 Currently Learning
