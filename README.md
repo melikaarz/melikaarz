@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Melika Rezaye**, a Computer Science student at **Khajeh Nasir Toosi University**.  
+I'm **Melika Rezaei**, a Computer Science student at **Khajeh Nasir Toosi University**.  
 I’m passionate about learning, problem solving, and improving my programming skills.
 
 ---
