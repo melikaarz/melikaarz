@@ -6,14 +6,15 @@ I’m passionate about learning, problem solving, and improving my programming s
 
 ## 🔧 Skills
 - **Programming Languages:** Python  
-- **Data Science & ML:** NumPy, Pandas, Matplotlib, scikit-learn  
+- **Data Science & ML:** NumPy, Pandas, Matplotlib, scikit-learn , Keras , Tensorflow 
 - **Tools & Technologies:** Git, colab, VS code
 ---
 
 ## 🌱 Currently Learning
 - Machine Learning 
 - Algorithms & Computer Science fundamentals  
-- Problem solving with Python  
+- Problem solving with Python
+- image processing & Computer vision  
 
 ---
 
