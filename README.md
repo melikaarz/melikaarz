@@ -1,7 +1,6 @@
 ## Hi there 👋
-I'm **Melika Rezaee**, a Computer Science graduate from K. N. Toosi University of Technology .  
-I’m passionate about learning, problem solving, and improving my programming skills.
-
+"I'm **Melika Rezaee** , a Computer Science graduate from K. N. Toosi University of Technology, currently pursuing an M.Sc. in Artificial Intelligence at University of Science and Culture
+. I’m passionate about learning, problem-solving, and continuously refining my programming and machine learning skills."
 ---
 
 ## 🔧 Skills
